@@ -1,0 +1,5 @@
+lazyme==0.0.23
+Keras==2.3.1
+pandas==0.25.1
+numpy==1.17.1
+scikit_learn==0.23.1
